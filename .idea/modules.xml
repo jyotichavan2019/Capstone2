@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Capstone2.iml" filepath="$PROJECT_DIR$/.idea/Capstone2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Service-Registry/Service-Registry.iml" filepath="$PROJECT_DIR$/Service-Registry/Service-Registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/customer-crud-service/customer-crud-service.iml" filepath="$PROJECT_DIR$/customer-crud-service/customer-crud-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/product-crud-service/product-crud-service.iml" filepath="$PROJECT_DIR$/product-crud-service/product-crud-service.iml" />
     </modules>
   </component>
 </project>

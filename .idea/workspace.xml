@@ -2,9 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="33380654-23fa-4812-82a0-148bae20eeac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/src/main/java/com/trilogyed/CustomerService/CustomerServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/src/main/java/com/trilogyed/CustomerService/CustomerServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerService/src/test/java/com/trilogyed/CustomerService/CustomerServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/customer-crud-service/src/test/java/com/trilogyed/CustomerService/CustomerServiceApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/java/com/trilogyed/ProductService/ProductServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/src/main/java/com/trilogyed/ProductService/ProductServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProductService/src/test/java/com/trilogyed/ProductService/ProductServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-crud-service/src/test/java/com/trilogyed/ProductService/ProductServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

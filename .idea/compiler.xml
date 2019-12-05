@@ -6,12 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="config-server" />
         <module name="Service-Registry" />
+        <module name="config-server" />
+        <module name="product-crud-service" />
+        <module name="customer-crud-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server" target="1.8" />
+      <module name="customer-crud-service" target="1.8" />
+      <module name="product-crud-service" target="1.8" />
       <module name="Service-Registry" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -19,6 +23,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Service-Registry" options="-parameters" />
       <module name="config-server" options="-parameters" />
+      <module name="customer-crud-service" options="-parameters" />
+      <module name="product-crud-service" options="-parameters" />
     </option>
   </component>
 </project>
